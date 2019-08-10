@@ -10,7 +10,7 @@
 # SSL ENCRYPTION
 # replace the following file names (and files used) by your choice/files
 c.NotebookApp.certfile = u'/home/user1961/.jupyter/cert.pem'
-c.NotebookApp.keyfile = u'/home/user1961/.jupytercert.key'
+c.NotebookApp.keyfile = u'/home/user1961/.jupyter/cert.key'
 
 # IP ADDRESS AND PORT
 # set ip to '*' to bind on all IP addresses of the cloud instance
